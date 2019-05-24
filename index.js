@@ -31,4 +31,7 @@ function driversByName(drivers) {
   return driversCopy.sort(nameSorter)
 }
 
+function totalRevenue(drivers) {
+  
+}
 
