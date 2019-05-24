@@ -33,6 +33,8 @@ function driversByName(drivers) {
 
 function totalRevenue(drivers) {
   let total = 0
-  drivers.forEach(function ())
+  drivers.forEach(function (driver) {
+    total +=
+  })
 }
 
