@@ -32,6 +32,7 @@ function driversByName(drivers) {
 }
 
 function totalRevenue(drivers) {
-  let total = 
+  let total = 0
+  
 }
 
